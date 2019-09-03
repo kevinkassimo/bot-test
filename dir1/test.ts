@@ -8,6 +8,5 @@ import {
 } from "https://deno.land/std/testing/asserts.ts";
 
 test(function randomTest(): void {
-  console.log("A");
-  console.log("HI5");
+  console.log("HI");
 });
