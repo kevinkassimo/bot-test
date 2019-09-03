@@ -9,5 +9,5 @@ import {
 
 test(function randomTest(): void {
   console.log("A");
-  console.log("HI3");
+  console.log("HI4");
 });
